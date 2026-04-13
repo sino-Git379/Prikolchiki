@@ -1,21 +1,25 @@
-nav {
+div {
   max-width: 500px;
-  max-height: 100px;
+  height: 600px;
   margin: auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-nav .btn2 {
+div .btn2 {
   width: 200px;
   height: 100px;
   font-size: 40px;
   border-radius: 25px;
 }
-nav .btn2:active {
+div .btn2:active {
   background: linear-gradient(to left, red, orange, yellow, yellowgreen, green, blue, purple);
 }
-nav ul {
-  display: flex;
-  gap: 30px;
+
+img {
+  position: absolute;
+  top: 260px;
+  left: 500px;
+  width: 100px;
+  height: 100px;
 }/*# sourceMappingURL=style.css.map */

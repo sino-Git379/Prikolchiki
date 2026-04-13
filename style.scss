@@ -1,6 +1,7 @@
-nav {
+div {
    max-width: 500px;
-   max-height: 100px;
+   height: 600px;
+   // background-color: grey;
    margin: auto;
    display: flex;
    justify-content: space-between;
@@ -18,8 +19,12 @@ nav {
       }
    }
 
-   ul {
-      display: flex;
-      gap: 30px;
-   }
+
+}
+img {
+   position: absolute;
+   top: 260px;
+   left: 500px;
+   width: 100px;
+   height: 100px;
 }
