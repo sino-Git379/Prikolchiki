@@ -13,7 +13,7 @@ div .btn2 {
   border-radius: 25px;
 }
 div .btn2:active {
-  background: linear-gradient(to left, red, orange, yellow, yellowgreen, green, blue, purple);
+  background: linear-gradient(to left top, Red, Orange, Yellow, Green, Blue, Indigo, Violet);
 }
 
 img {
