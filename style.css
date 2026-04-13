@@ -14,12 +14,4 @@ div .btn2 {
 }
 div .btn2:active {
   background: linear-gradient(to left top, Red, Orange, Yellow, Green, Blue, Indigo, Violet);
-}
-
-img {
-  position: absolute;
-  top: 260px;
-  left: 20%;
-  width: 100px;
-  height: 100px;
 }/*# sourceMappingURL=style.css.map */
